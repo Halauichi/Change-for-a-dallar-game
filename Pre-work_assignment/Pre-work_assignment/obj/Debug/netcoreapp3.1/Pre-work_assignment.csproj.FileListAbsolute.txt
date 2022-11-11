@@ -1,0 +1,27 @@
+D:\C# II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\bin\Debug\netcoreapp3.1\Pre-work_assignment.exe
+D:\C# II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\bin\Debug\netcoreapp3.1\Pre-work_assignment.deps.json
+D:\C# II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\bin\Debug\netcoreapp3.1\Pre-work_assignment.runtimeconfig.json
+D:\C# II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\bin\Debug\netcoreapp3.1\Pre-work_assignment.runtimeconfig.dev.json
+D:\C# II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\bin\Debug\netcoreapp3.1\Pre-work_assignment.dll
+D:\C# II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\bin\Debug\netcoreapp3.1\Pre-work_assignment.pdb
+D:\C# II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\obj\Debug\netcoreapp3.1\Pre-work_assignment.AssemblyInfoInputs.cache
+D:\C# II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\obj\Debug\netcoreapp3.1\Pre-work_assignment.AssemblyInfo.cs
+D:\C# II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\obj\Debug\netcoreapp3.1\Pre-work_assignment.csproj.CoreCompileInputs.cache
+D:\C# II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\obj\Debug\netcoreapp3.1\Pre-work_assignment.dll
+D:\C# II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\obj\Debug\netcoreapp3.1\Pre-work_assignment.pdb
+D:\C# II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\obj\Debug\netcoreapp3.1\Pre-work_assignment.genruntimeconfig.cache
+D:\C# II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\obj\Debug\netcoreapp3.1\Pre-work_assignment.csprojAssemblyReference.cache
+D:\C#II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\bin\Debug\netcoreapp3.1\Pre-work_assignment.exe
+D:\C#II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\bin\Debug\netcoreapp3.1\Pre-work_assignment.deps.json
+D:\C#II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\bin\Debug\netcoreapp3.1\Pre-work_assignment.runtimeconfig.json
+D:\C#II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\bin\Debug\netcoreapp3.1\Pre-work_assignment.runtimeconfig.dev.json
+D:\C#II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\bin\Debug\netcoreapp3.1\Pre-work_assignment.dll
+D:\C#II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\bin\Debug\netcoreapp3.1\Pre-work_assignment.pdb
+D:\C#II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\obj\Debug\netcoreapp3.1\Pre-work_assignment.csproj.AssemblyReference.cache
+D:\C#II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\obj\Debug\netcoreapp3.1\Pre-work_assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\obj\Debug\netcoreapp3.1\Pre-work_assignment.AssemblyInfoInputs.cache
+D:\C#II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\obj\Debug\netcoreapp3.1\Pre-work_assignment.AssemblyInfo.cs
+D:\C#II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\obj\Debug\netcoreapp3.1\Pre-work_assignment.csproj.CoreCompileInputs.cache
+D:\C#II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\obj\Debug\netcoreapp3.1\Pre-work_assignment.dll
+D:\C#II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\obj\Debug\netcoreapp3.1\Pre-work_assignment.pdb
+D:\C#II\Pre-work assignment\Pre-work_assignment\Pre-work_assignment\obj\Debug\netcoreapp3.1\Pre-work_assignment.genruntimeconfig.cache

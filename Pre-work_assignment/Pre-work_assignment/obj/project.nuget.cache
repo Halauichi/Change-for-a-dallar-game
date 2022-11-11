@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ivkP6FMGnvy/ghsLAiIakCZVuuPorzdOAGRqlVF/AR84xTF7KYAH3SRXZNOOTs5CBRlwE18gUYsq2uc0PjTNQ==",
+  "success": true,
+  "projectFilePath": "D:\\C#II\\Pre-work assignment\\Pre-work_assignment\\Pre-work_assignment\\Pre-work_assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\husam\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.29\\microsoft.netcore.app.host.win-x64.3.1.29.nupkg.sha512"
+  ],
+  "logs": []
+}
